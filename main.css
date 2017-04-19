@@ -67,6 +67,7 @@ input{
 	font-size: 15px;
 	border: 1px solid lightgrey;
 	border-radius: 5px;
+	text-indent: 3px;
 }
 
 img {
