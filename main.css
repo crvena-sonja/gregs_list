@@ -12,6 +12,7 @@ main {
 	padding-left: 90px;
   	padding-right: 90px;
 	min-width: 1000px;
+
 }
 
 .container{
@@ -77,6 +78,32 @@ img {
 }
 
 .box{
+	height: 35px;
+	width: 400px;
+	border: 1px solid lightgrey;
+	border-radius: 5px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 0;
+	text-align: center;
 
+}
+
+.box-results{
+	display: inline-block;
+	height: 35px;
+	width: 200px;
+	border-left: 1px solid lightgrey;
+	border-right: 1px solid lightgrey;
+	font-size: 15px;
+	padding-top: 7px
+}
+
+.box-nav{
+	display: inline-block;
+	height: 35px;
+	width: 99px;
+	font-size: 15px;
+	padding-top: 7px
 }
 
